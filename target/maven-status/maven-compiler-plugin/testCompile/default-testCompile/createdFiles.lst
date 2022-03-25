@@ -1,0 +1,3 @@
+com\demo\member\controller\MemberControllerTest.class
+com\demo\member\MemberDemoApplicationTests.class
+com\demo\member\repository\MemberRepositoryTest.class
